@@ -1,0 +1,4 @@
+.idea
+target/
+!**/src/main/**/build/
+!**/src/test/**/build/
